@@ -211,7 +211,7 @@ h2{
 .flag_image1{
 	min-height: 300px;
 	margin-bottom: 15px;
-	background-image: url(../images/flag1.png);
+	background-image: url(../images/ceo.png);
 	background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -220,7 +220,7 @@ h2{
 .flag_image2{
 	min-height: 300px;
 	margin-bottom: 15px;
-	background-image: url(../images/flag3.png);
+	background-image: url(../images/cto.png);
 	background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -229,7 +229,7 @@ h2{
 .flag_image3{
 	min-height: 300px;
 	margin-bottom: 15px;
-	background-image: url(../images/flag2.png);
+	background-image: url(../images/hoi.png);
 	background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
